@@ -48,4 +48,18 @@ See [architecture and schema](docs/ARCHITECTURE.md) and [decisions](docs/DECISIO
 | Peak memory |  |
 | Main bundle size and breakdown |  |
 
-Profiler screenshots, memory screenshots, and app screenshots have not been captured. See [profiling checklist](docs/PERFORMANCE.md).
+Profiler and memory screenshots have not been captured. App screenshots are included below. See [profiling checklist](docs/PERFORMANCE.md).
+
+## Screenshots
+
+| Breed list (dark mode) | Filter controls |
+| --- | --- |
+| <img src="assets/s1.png" alt="Dog breed list in dark mode, grouped by breed group" width="280" /> | <img src="assets/s2.png" alt="Filter controls for breed group, size, coat, hypoallergenic status, and traits" width="280" /> |
+
+| Breed overview | Trait scores |
+| --- | --- |
+| <img src="assets/s3.png" alt="Alaskan Klee Kai overview with description and breed specifications" width="280" /> | <img src="assets/s4.png" alt="Alaskan Klee Kai temperament tags and visual trait scores" width="280" /> |
+
+### Image gallery
+
+<img src="assets/s5.png" alt="Alaskan Klee Kai image gallery with author, license link, and source attribution" width="280" />
